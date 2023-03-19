@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842080604502",
+    "project_id": "jcb-loyalty",
+    "storage_bucket": "jcb-loyalty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842080604502:android:fbb627752e30726cd106f7",
+        "android_client_info": {
+          "package_name": "com.mobiquest.jcb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842080604502-jopl2vgdtc4mqiktf7cvivgfbnebqkk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_wMvWBHASsYKURGCjlNd2P6sdvtGPNrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842080604502-jopl2vgdtc4mqiktf7cvivgfbnebqkk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
